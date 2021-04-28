@@ -1,0 +1,27 @@
+body {
+	background-color: lightgrey;
+}
+h1 {
+	background-color: #863A3A;
+	text-align: center;
+	font-style: italic;
+}
+
+h2 {
+	background-color: #863A3A;
+	text-align: center;
+	font-style: italic;
+}
+
+pre {
+	background-color: #000000;
+	text-align: center;
+	color: white;
+	font-style: italic;
+}
+
+h3.opcion {
+	text-align: center;
+	background-color: #863A3A;
+	color: white;
+}
